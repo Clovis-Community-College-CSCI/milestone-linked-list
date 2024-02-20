@@ -184,7 +184,7 @@ responsible for the following:
 + Providing documentation (comments) in your code
 + Keep track of how much GPT got right and relay that in report.
 
-#### Your Implementation (YI)
+### Your Implementation (YI)
 
 Your implementator has the most difficult job of the group. This role
 is responsible for implementing their class without any help from AI or 
@@ -270,7 +270,7 @@ an important skill. Don't be like the guy at UCSD's computer lab!
 
 ## Report
 
-At the very end of this, you need to write up a report (3-5linked lists 
+At the very end of this, you need to write up a report (4 or more pages) 
 detailing what you learned from benchmarking the linked lists and explain 
 what you found. You must include graphs showing how all three implementations
 did across your data. You should also include your approach and you 

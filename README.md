@@ -82,7 +82,7 @@ class Dog : public Animal {
     void speak() override { std::cout << "BARK!" << std::endl; }
     // Print all info
     void info() { 
-        std::cout << "My name is " << get_name() << ". I'm " << get_age() << ." << std::endl; 
+        std::cout << "My name is " << get_name() << ". I'm " << get_age() << "." << std::endl; 
     }
 };
 
@@ -300,7 +300,7 @@ have. The grade breakdown will be as follows:
 2. Benchmark Report: 23 points
    1. 4 points for writing the report (3-5 pages, other requirements, etc.).
    2. 3 points for graphs in report with proper formatting.
-   3. 8 points for quality of report (How much you learned, observations, etc.)
+   3. 8 points for quality of report and comparing Vectors vs Linked Lists.
    4. 4 points for explaining what you did to debug.
    5. 4 points for a reflection on your group's performance. 
 3. RATting out for 3 points.

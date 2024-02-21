@@ -5,6 +5,6 @@
 // Remember to follow the Rule of Three!
 // Hint: You will need an operator=
 
-class DoubleLL {
+class DoubleLL : public DoublyLL {
 
 };

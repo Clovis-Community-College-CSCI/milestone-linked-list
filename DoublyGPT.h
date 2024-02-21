@@ -4,6 +4,6 @@
 // Remember to use proper class design!
 // Remember to follow the Rule of Three!
 // Hint: You will need an operator=
-class DoublyGPT {
+class DoublyGPT : public DoublyLL {
 
 };

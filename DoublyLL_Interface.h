@@ -22,7 +22,7 @@ class DoublyLL {
         };
     public:
         DoublyLL(); // Constructor
-        virtual ~DoublyLL(); // Destructor
+        virtual ~DoublyLL() = default; // Destructor
         // The following functions you are to declare in your
         // respective .h files then define in your .cc files.
         
